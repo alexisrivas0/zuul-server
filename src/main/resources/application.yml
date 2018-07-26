@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: Zuul-Server
+
 #Server Port
 server:
   port: 8765
